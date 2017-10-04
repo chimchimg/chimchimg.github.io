@@ -1,0 +1,36 @@
+img {
+	display: block;
+	image-align: center;
+}
+.thick-white-border{
+	border-color: white;
+	border-width: 10px;
+	border-style: solid;
+	border-radius: 50%;
+}
+body {
+	background-image: url("https://www.whiteflowerfarm.com/mas_assets/cache/image/3/6/9/f/13983.Jpg");
+	background-size: cover;
+	color: black;
+	font-family: cambria;
+}
+a {
+	color: white;
+}
+h1 {
+	color: black;
+	font-family: cambria;
+	text-align: center;
+	font-size: 50px;
+}
+ul {
+	padding: 8px;
+	background: rgba(0,0,0,0.5);
+	text-align: center;
+}
+li {display: inline;
+padding: 0px 10px 0px 30px;
+}
+.resources
+
+{color: green;}
